@@ -94,17 +94,12 @@ I continuously seek to improve by learning modern frontend frameworks and best p
               </p>
             </div>
             <div className="bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-2xl font-semibold">Expense Tracker</h3>
+              <h3 className="text-2xl font-semibold"><a href="https://expense-tracker-red-five-51.vercel.app/">Expense Tracker</a></h3>
               <p className="text-gray-300 mt-2">
                 Developed a responsive web application to track personal expenses with categories, summaries, and monthly reports.
               </p>
             </div>
-            <div className="bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-2xl font-semibold">Real Time Chat Application</h3>
-              <p className="text-gray-300 mt-2">
-                A real-time messaging app allowing users to join chat rooms and exchange messages instantly. Built using WebSockets for live communication and React for dynamic user interface.
-              </p>
-            </div>
+            
             
           </div>
         </section>
@@ -144,10 +139,10 @@ I continuously seek to improve by learning modern frontend frameworks and best p
             I'm always open to discussing new opportunities or collaborations. Feel free to reach out!
           </p>
           <div className="text-blue-400 mb-3">
-            📧 <a href="mailto:your.email@example.com" className="hover:underline">your.email@example.com</a>
+            📧 <a href="mailto:g.geetika0911@gmail.com" className="hover:underline">g.geetika0911@gmail.com</a>
           </div>
           <div className="text-blue-400">
-            🔗 <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a>
+            🔗 <a href="https://linkedin.com/in/G-Geetika" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a>
           </div>
         </section>
       </main>
